@@ -15,10 +15,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/king-ibrahim-md/IBRAHIM-TECH/tree/main";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj";
-global.website=process.env.GURL || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/Rhodvick/RHODVICK-AI";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D";
+global.website=process.env.GURL || "https://chat.whatsapp.com/IUZAly12sXlBDMekJC2DR5" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/25b60ba1474cffb21969c.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -30,7 +30,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 
 //========================= [ BOT SETTINGS ] =========================\\
-global.style = process.env.STYLE   || '1',  // put '1' to "5" here to check bot styles
+global.style = process.env.STYLE   || '5',  // put '1' to "5" here to check bot styles
 global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not responed
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/ed324d7e76a4cd50fd96b.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/25b60ba1474cffb21969c.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©sᵏⁱⁿᵍ ⁱᵇʳᵃʰⁱᵐ ᵐᵈ2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "©sRHODVICK-MD2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Ibrahim",
+  author : process.env.PACK_AUTHER|| "RHODVICK-MD",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || " 𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
-  ownername:process.env.OWNER_NAME|| "It'x 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
+  botname : process.env.BOT_NAME  || " RHODVICK-MD",
+  ownername:process.env.OWNER_NAME|| "It'x RHODVICK-MD",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
