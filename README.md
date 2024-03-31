@@ -43,7 +43,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
         👇👇👇👇
 	
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://rhodvick-ai.vercel.app/) or (https://suhail-md-vtsf.onrender.com/code)***
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://aipair-54307c0fb9ce.herokuapp.com/pair))***
     
    𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
 
