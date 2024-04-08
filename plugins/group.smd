@@ -16,20 +16,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Rhodvick-Md
+   * @author : Rhodvick Tech 
+   * @youtube : https://www.youtube.com/@Rhodvick
+   * @description : Rhodvick-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Rhodvick Tech.
+   * © 2024 Rhodvick-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Rhodvick_Md = "Rhodvick MD Whatsapp bot md"
 
 const {updateProfilePicture,parsedJid  } = require("../lib")
 
